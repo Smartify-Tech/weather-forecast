@@ -2,7 +2,9 @@
 # Simple Univariate Linear Regression using scikit-learn:
 Predicting Maximum temperature given the minimum temperature
 
-This project attempts to apply my learning to build a simple linear regression.
+================================
+
+This project is an attempts to apply my learning to build a simple linear regression.
 
 The dataset used for this project was downloaded from kaggle: [The dataset contains information on weather conditions recorded on each day at various weather stations around the world. Information includes precipitation, snowfall, temperatures, wind speed and whether the day included thunder storms or other poor weather conditions.](https://www.kaggle.com/datasets/smid80/weatherww2)
 
@@ -15,7 +17,7 @@ Evaluating the model gave an RScore of **0.769** and a RMSE of _____
 
 In attempt to improve the model performance, the dataset was:
 * explored
-* outliers was removed and
+* outliers were removed and
 * the dataset was split into two categories
    * weather observations for zero precipitation
    * weather observations for precipitations greater than zero
