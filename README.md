@@ -26,7 +26,7 @@ In attempt to improve the model performance, the dataset was:
 👉Evaluating the performances, the model for weather observations where precipitation is greater than zero performed better than the other (precipitation = 0) with an RScore of **0.88** and RMSE of **2.76**
 
 ## Note:
-A better model can be achieved by adding more predictor variables like Day of the year, month, and Precipitation value; but for the sake of learning ,it was limited this to one predictor variable and one response variable
+A better model can be achieved by adding more predictor variables like Day of the year, month, and Precipitation vaues.
 
 ## Technologies used:
 A list of technologies used within the project:
